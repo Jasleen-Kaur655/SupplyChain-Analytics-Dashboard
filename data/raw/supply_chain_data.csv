@@ -1,0 +1,7 @@
+Order_ID,Supplier,Region,Order_Date,Delivery_Date,Shipping_Cost,Delivery_Status
+101,A,Asia,2024-01-01,2024-01-05,120,On Time
+102,B,Europe,2024-01-03,2024-01-10,200,Delayed
+103,C,Asia,2024-01-04,2024-01-07,150,On Time
+104,A,America,2024-01-06,2024-01-15,300,Delayed
+105,B,Europe,2024-01-08,2024-01-12,180,On Time
+
